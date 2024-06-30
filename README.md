@@ -1,6 +1,6 @@
-# Complete_Pandas_Series
+# Complete_Pandas_Series and Tutorial Usage of Jupyter Notebook
 ## Here is the sequence of this series
-**The demo video is also shown at start of notebook itself**<br>
+**The demo video is also shown at start of notebook itself in iframe,try to open notebooks using colab or jupyter**<br>
 **Credits to Codebasics for the wonderful course demonstration**<br>
 /pandas<br>
 |--------->Pandas_Basics and Jupyter_Notebook_Basics<br>
